@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Mon Feb 15 08:54:16 IST 2016
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;mediaiq-aggregator;mediaiq-sources;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
